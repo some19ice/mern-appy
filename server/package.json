@@ -1,0 +1,18 @@
+{
+  "name": "mern-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Some19ice <some1me247@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "express": "^4.17.1",
+    "jsrsasign": "^8.0.12",
+    "morgan": "^1.9.1"
+  }
+}
